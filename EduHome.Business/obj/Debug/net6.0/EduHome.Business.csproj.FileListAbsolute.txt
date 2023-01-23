@@ -1,0 +1,17 @@
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\bin\Debug\net6.0\EduHome.Business.deps.json
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\bin\Debug\net6.0\EduHome.Business.dll
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\bin\Debug\net6.0\EduHome.Business.pdb
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\obj\Debug\net6.0\EduHome.Business.csproj.AssemblyReference.cache
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\obj\Debug\net6.0\EduHome.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\obj\Debug\net6.0\EduHome.Business.AssemblyInfoInputs.cache
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\obj\Debug\net6.0\EduHome.Business.AssemblyInfo.cs
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\obj\Debug\net6.0\EduHome.Business.csproj.CoreCompileInputs.cache
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\obj\Debug\net6.0\EduHome.Business.dll
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\obj\Debug\net6.0\refint\EduHome.Business.dll
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\obj\Debug\net6.0\EduHome.Business.pdb
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\obj\Debug\net6.0\ref\EduHome.Business.dll
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\bin\Debug\net6.0\EduHome.Core.dll
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\bin\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\bin\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\bin\Debug\net6.0\EduHome.Core.pdb
+C:\Users\Мухаммед\Desktop\WORKSPACE\EduHomeAPI\EduHome.Business\obj\Debug\net6.0\EduHome.Business.csproj.CopyComplete
